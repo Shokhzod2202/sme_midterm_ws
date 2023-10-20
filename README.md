@@ -9,8 +9,6 @@ ROS 2 Fleet Management is a project that allows you to manage and allocate a fle
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
