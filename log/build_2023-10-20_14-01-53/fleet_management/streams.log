@@ -1,0 +1,21 @@
+[1.079s] Invoking command in '/home/shokhzod/sme_midterm_ws/src/fleet_management': PYTHONPATH=/home/shokhzod/sme_midterm_ws/build/fleet_management/prefix_override:/home/shokhzod/sme_midterm_ws/install/fleet_management/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/fleet_management build --build-base /home/shokhzod/sme_midterm_ws/build/fleet_management/build install --record /home/shokhzod/sme_midterm_ws/build/fleet_management/install.log --single-version-externally-managed
+[1.502s] running egg_info
+[1.502s] writing ../../build/fleet_management/fleet_management.egg-info/PKG-INFO
+[1.503s] writing dependency_links to ../../build/fleet_management/fleet_management.egg-info/dependency_links.txt
+[1.503s] writing entry points to ../../build/fleet_management/fleet_management.egg-info/entry_points.txt
+[1.504s] writing requirements to ../../build/fleet_management/fleet_management.egg-info/requires.txt
+[1.504s] writing top-level names to ../../build/fleet_management/fleet_management.egg-info/top_level.txt
+[1.507s] reading manifest file '../../build/fleet_management/fleet_management.egg-info/SOURCES.txt'
+[1.508s] writing manifest file '../../build/fleet_management/fleet_management.egg-info/SOURCES.txt'
+[1.508s] running build
+[1.509s] running build_py
+[1.509s] running install
+[1.509s] running install_lib
+[1.511s] running install_data
+[1.512s] copying package.xml -> /home/shokhzod/sme_midterm_ws/install/fleet_management/share/fleet_management
+[1.512s] running install_egg_info
+[1.515s] removing '/home/shokhzod/sme_midterm_ws/install/fleet_management/lib/python3.10/site-packages/fleet_management-0.0.0-py3.10.egg-info' (and everything under it)
+[1.515s] Copying ../../build/fleet_management/fleet_management.egg-info to /home/shokhzod/sme_midterm_ws/install/fleet_management/lib/python3.10/site-packages/fleet_management-0.0.0-py3.10.egg-info
+[1.517s] running install_scripts
+[1.548s] writing list of installed files to '/home/shokhzod/sme_midterm_ws/build/fleet_management/install.log'
+[1.582s] Invoked command in '/home/shokhzod/sme_midterm_ws/src/fleet_management' returned '0': PYTHONPATH=/home/shokhzod/sme_midterm_ws/build/fleet_management/prefix_override:/home/shokhzod/sme_midterm_ws/install/fleet_management/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/fleet_management build --build-base /home/shokhzod/sme_midterm_ws/build/fleet_management/build install --record /home/shokhzod/sme_midterm_ws/build/fleet_management/install.log --single-version-externally-managed
