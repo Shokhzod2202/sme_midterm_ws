@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/shokhzod/sme_midterm_ws/install/fleet_management/lib/python3.10/site-packages",
+        "/home/shokhzod/SmartMob/MidTermAssignment_ws/install/fleet_management_project/lib/python3.10/site-packages",
+        "/home/shokhzod/build/traffic_light",
+        "/home/shokhzod/install/traffic_light/lib/python3.10/site-packages",
+        "/home/shokhzod/build/mid_term_assignment",
+        "/home/shokhzod/install/mid_term_assignment/lib/python3.10/site-packages",
+        "/home/shokhzod/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/shokhzod/sme_midterm_ws/install/fleet_management/lib/python3.10/site-packages",
+        "/home/shokhzod/SmartMob/MidTermAssignment_ws/install/fleet_management_project/lib/python3.10/site-packages",
+        "/home/shokhzod/build/traffic_light",
+        "/home/shokhzod/install/traffic_light/lib/python3.10/site-packages",
+        "/home/shokhzod/build/mid_term_assignment",
+        "/home/shokhzod/install/mid_term_assignment/lib/python3.10/site-packages",
+        "/home/shokhzod/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
